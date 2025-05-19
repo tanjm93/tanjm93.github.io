@@ -12,7 +12,7 @@ redirect_from:
 
 🎓Education
 ======
-* **M.Tech in Artificial Intelligence Systems**, National University of Singapore *(2024)*
+* **M.Tech in Artificial Intelligence Systems**, National University of Singapore (NUS) *(2024)*
   - *GPA:* 4.79 / 5
   - *Specialization:* 📷 Computer Vision, 🗪 Natural Language Processing
   - *Awards*:
@@ -21,12 +21,12 @@ redirect_from:
     3. NUS-ISS CEO's Honour List *(AY 2024/2025 Semester 1)*
     4. NUS-ISS CEO's Honour List *(AY 2023/2024 Semester 2)*
 
-* **B.Eng in Aerospace Engineering (Hons)**, Nanyang Technological University *(2018)*
+* **B.Eng in Aerospace Engineering (Hons)**, Nanyang Technological University (NTU) *(2018)*
   - *GPA:* 4.87 / 5 (Highest Distinction)
 
 🧑‍💻Work experience
 ======
-* **R&D Engineer**, Advanced Remanufacturing and Technology Centre (ARTC), A*STAR *(2021-Current)*
+* **R&D Engineer**, Advanced Remanufacturing and Technology Centre (ARTC), A*STAR _(2021-Current)_
   - Developed information extraction pipeline from PDF and creation of knowledge graph for document understanding application
   - Implemented GraphRAG and an agentic framework with LangChain for chatbot application
   - Fine-tuned Vision-Language Model (VLM) for automated features extraction

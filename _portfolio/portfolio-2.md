@@ -1,5 +1,5 @@
 ---
-title: "Object Detection System for Fasteners Identification"
+title: "(2) Object Detection System for Fasteners Identification"
 # excerpt: "* Developed an application which **automatically extracts information** from engineering PDFs and structured them for **intelligent querying**. <br/><img src='/images/mtech_proj1_excerpt.png'>"
 excerpt: >
   <ul>
@@ -11,7 +11,9 @@ excerpt: >
         <li><strong>Object Segmentation:</strong> Fine-tuned YOLOv8s-seg</li>
     </ol>
   </ul>
+  <div style="text-align: center;">
   <img src="/images/mtech_proj2_excerpt.png" alt="Project Image" width="600">
+  </div>
 
 collection: portfolio
 ---
@@ -37,3 +39,16 @@ The overall architecture for the application is as depicted in the figure above.
 - **Object Segmentation:** Fine-tuned YOLOv8s-seg
 
 Github Repo: [Link](https://github.com/tanjm93/mtech-object-detecton-system)
+
+## Key Results 
+<img src="/images/mtech_proj2_keyresults1.png" alt="Key Result" style="border: 1px solid black;" />
+
+<img src="/images/mtech_proj2_keyresults2.png" alt="Key Result" style="border: 1px solid black;" />
+
+<img src="/images/mtech_proj2_keyresults3.png" alt="Key Result" style="border: 1px solid black;" />
+
+<img src="/images/mtech_proj2_keyresults4.png" alt="Key Result" style="border: 1px solid black;" />
+
+<img src="/images/mtech_proj2_keyresults5.png" alt="Key Result" style="border: 1px solid black;" />
+
+<img src="/images/mtech_proj2_keyresults6.png" alt="Key Result" style="border: 1px solid black;" />
